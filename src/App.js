@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import navijson from './data/gnb.json';
 
+import 'bootstrap/dist/css/bootstrap.min.css'
+
 function App() {
   const [tabvar, settab] = useState(0)
   
@@ -24,6 +26,15 @@ function App() {
           })
         }
       </ul>
+      <div className='border py-5 bg-dark text-white'>
+        {
+          navijson[tabvar] && <p>
+            <img src={navijson[tabvar].src} alt={navijson[tabvar].alt}></img>
+            <strong>{navijson[tabvar].name}</strong>
+          </p>
+
+        }
+      </div>
     </div>
   );
 }
