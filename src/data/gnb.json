@@ -1,0 +1,32 @@
+[
+  {
+    "link": "https://www.sennheiserkorea.com/collections/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.product_type=Audiophile-Earbuds&filter.p.product_type=Earbuds-Wired&filter.p.product_type=Earbuds-Wireless&sort_by=manual",
+    "src": "/img/lnbimg/ie_600_product_shot.png",
+    "alt": "이어폰",
+    "name": "이어폰"
+  },
+  {
+    "link": "https://www.sennheiserkorea.com/collections/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.product_type=Audiophile-Headphones&filter.p.product_type=Headphones-Wireless&sort_by=manual",
+    "src": "/img/lnbimg/HD_660S2_ATF_Main_Image.png",
+    "alt": "헤드폰",
+    "name": "헤드폰"
+  },
+  {
+    "link": "https://www.sennheiserkorea.com/collections/ambeo-soundbar",
+    "src": "/img/lnbimg/soundbar_plus_iso_front_dolby_atmos_final.png",
+    "alt": "AMBEO",
+    "name": "AMBEO"
+  },
+  {
+    "link": "https://www.sennheiserkorea.com/collections/transmitter",
+    "src": "/img/lnbimg/product_detail_x2_desktop_HDV-820_1_Sennheiser.png",
+    "alt": "기타",
+    "name": "기타"
+  },
+  {
+    "link": "https://www.sennheiserkorea.com/collections/spare-parts",
+    "src": "/img/lnbimg/product_detail_x2_desktop_Sennheiser_accessory_HD600_cable_and_adapter.png",
+    "alt": "부품",
+    "name": "부품"
+  }
+]
